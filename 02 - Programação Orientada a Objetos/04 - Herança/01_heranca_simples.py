@@ -34,4 +34,4 @@ caminhao = Caminhao("roxo", "gfd-8712", 8, True)
 
 print(moto)
 print(carro)
-print(caminhao
+print(caminhao)
